@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my GitHub Profile!
 
-I'm **Haoyang Cui**, currently a Master's student at **Dartmouth College**, with a background in **Computer Science and Mathematics** from the **University of Toronto**.
+I'm **Haoyang 'Henry' Cui**, currently a Master's student at **Dartmouth College**, with a background in **Computer Science and Mathematics** from the **University of Toronto**.
 
 ### 🔬 Research & Work
 I'm actively involved in two labs at Dartmouth:
