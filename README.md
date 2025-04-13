@@ -1,6 +1,28 @@
-## Hi there 👋
-My name is Haoyang Cui. I am currently a master's student at Dartmouth College.\\
-My undergraduate degree is from the University of Toronto, majoring in computer science and math.
+## 👋 Hi there, welcome to my GitHub Profile!
+
+I'm **Haoyang Cui**, currently a Master's student at **Dartmouth College**, with a background in **Computer Science and Mathematics** from the **University of Toronto**.
+
+### 🔬 Research & Work
+I'm actively involved in two labs at Dartmouth:
+- **The Bhattacharya Lab** – Focused on **Image and Multimodal Data Analytics** for medicine.
+- **Lee Lab** – Dedicated to developing **proteomic analysis methods** to understand the protective mechanisms of antibodies with clinical relevance.
+
+### 🚀 Current Projects
+I'm currently working on three exciting projects:
+- **Medical Image Segmentation Tool**  
+  Developing a deep learning pipeline for segmenting cancer regions from **CT and PET data**.
+- **Web-Based Immunology Pipeline**  
+  Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology **.
+- **TinyML for Embedded Devices**  
+  Creating ultra-lightweight ML models (under **256KB**) capable of running on low-resource hardware.
+
+### 🎯 Goals
+My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive (AR) models**—to build smarter, **personalized digital health systems**.
+
+I'm also currently in the process of **applying to PhD programs** to further pursue this path.
+
+### 💪 Fun Fact
+I'm a passionate gym-goer! I’ve lost over **30 kilograms** since finishing my undergrad. I'm even planning to write a book about my **workout routines** and **nutrition strategies** for sustainable weight control.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYBleek)](https://github.com/anuraghazra/github-readme-stats)
