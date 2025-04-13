@@ -22,7 +22,7 @@ My long-term goal is to leverage machine learning—especially **dimension reduc
 I'm also currently in the process of **applying to PhD programs** to further pursue this path.
 
 ### 💪 Fun Fact
-I'm a passionate gym-goer! I’ve lost over **30 kilograms** since finishing my undergrad. I'm even planning to write a book about my **workout routines** and **nutrition strategies** for sustainable weight control.
+I'm a passionate gym-goer! I’ve lost over **65 lbs (about 30 kg)** since finishing my undergrad. I'm even planning to write a book about my **workout routines** and **nutrition strategies** for sustainable weight control.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYBleek)](https://github.com/anuraghazra/github-readme-stats)
