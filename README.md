@@ -1,4 +1,6 @@
 ## Hi there 👋
+My name is Haoyang Cui. I am currently a master's student at Dartmouth College.
+My undergraduate degree is from the University of Toronto, majoring in computer science and math.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYBleek)](https://github.com/anuraghazra/github-readme-stats)
