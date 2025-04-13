@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Haoyang Cui. I am currently a master's student at Dartmouth College.
+My name is Haoyang Cui. I am currently a master's student at Dartmouth College.\\
 My undergraduate degree is from the University of Toronto, majoring in computer science and math.
 
 <!--
