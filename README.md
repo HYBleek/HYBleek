@@ -12,7 +12,7 @@ I'm currently working on three exciting projects:
 - **Medical Image Segmentation Tool**  
   Developing a deep learning pipeline for segmenting cancer regions from **CT and PET data**.
 - **Web-Based Immunology Pipeline**  
-  Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology **.
+  Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology**.
 - **TinyML for Embedded Devices**  
   Creating ultra-lightweight ML models (under **256KB**) capable of running on low-resource hardware.
 
