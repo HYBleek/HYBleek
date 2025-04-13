@@ -19,10 +19,10 @@ I'm currently working on three exciting projects:
 ### 🎯 Goals
 My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive (AR) models**—to build smarter, **personalized digital health systems**.
 
-I'm also currently in the process of **applying to PhD programs** to further pursue this path.
+I'm also currently trying to apply to **PhD programs** to further pursue this path.
 
 ### 💪 Fun Fact
-I'm a passionate gym-goer! I’ve lost over **65 lbs (about 30 kg)** since finishing my undergrad. I'm even planning to write a book about my **workout routines** and **nutrition strategies** for sustainable weight control.
+I'm a passionate gym-goer! I’ve lost over **65 lbs (about 30 kg)** since finishing my undergrad. I'm even planning to write a book about my workout routines and nutrition strategies for sustainable weight control.
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYBleek)](https://github.com/anuraghazra/github-readme-stats)
