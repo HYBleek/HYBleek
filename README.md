@@ -13,8 +13,7 @@ I'm currently working on three exciting projects:
   Developing a deep learning pipeline for segmenting cancer regions from **CT and PET data**.
 - **Web-Based Immunology Pipeline**  
   Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology**.
-- **Knowledge Distillation for Marginal Machine Learning Models**  
-  Applying knowledge distillation to produce lightweight neural networks with enhanced generalization and robustness across diverse edge computing scenarios on resource-constrained devices.
+- **Knowledge Distillation for Born Again Neural Networks**  
 
 ### 🎯 Goals
 My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive models**—to build smarter, **personalized digital health systems**.
