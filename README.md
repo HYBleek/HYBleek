@@ -15,7 +15,7 @@ I'm currently working on three exciting projects:
   Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology**.
 - **Knowledge Distillation for Born Again Neural Networks**  
 
-### 🎯 Goals
+### 🎯 Goals 
 My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive models**—to build smarter, **personalized digital health systems**.
 
 I'm also currently trying to apply to **PhD programs** to further pursue this path.
