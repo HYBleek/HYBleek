@@ -4,7 +4,6 @@ I'm **Haoyang 'Henry' Cui**, currently a Master's student at **Dartmouth College
 
 ### 🔬 Research & Work 
 I'm actively involved in two labs at Dartmouth:
-- [**Bhattacharya Lab**](https://sites.dartmouth.edu/bhattacharya-lab/) – Focused on **Image and Multimodal Data Analytics** for medicine.
 - [**Lee Lab**](https://lee-lab.engineering.dartmouth.edu/) – Dedicated to analyzing antibody repertoire evolution (RNA/protein) with **high-throughput methods and modelling** to understand protection and engineer personalized vaccines/immunotherapies.
 
 ### 🚀 Current Projects
