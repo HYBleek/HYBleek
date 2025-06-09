@@ -7,14 +7,11 @@ I'm actively involved in two labs at Dartmouth:
 - [**Lee Lab**](https://lee-lab.engineering.dartmouth.edu/) – Dedicated to analyzing antibody repertoire evolution (RNA/protein) with **high-throughput methods and modelling** to understand protection and engineer personalized vaccines/immunotherapies.
 
 ### 🚀 Current Projects
-I'm currently working on three exciting projects:
-- **Medical Image Segmentation Tool**  
-  Developing a deep learning pipeline for segmenting cancer regions from **CT and PET data**.
+I'm currently working on：
 - **Web-Based Immunology Pipeline**  
   Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology**.
-- **Knowledge Distillation for Born Again Neural Networks**  
 
-### 🎯 Goals 
+🎯 Goals 
 My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive models**—to build smarter, **personalized digital health systems**.
 
 I'm also currently trying to apply to **PhD programs** to further pursue this path.
