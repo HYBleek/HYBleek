@@ -10,8 +10,7 @@ I'm actively the following lab at Dartmouth:
 I'm currently working on：
 - **Web-Based Immunology Pipeline**  
   Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology**.
-
-🎯 Goals 
+ Goals 
 My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive models**—to build smarter, **personalized digital health systems**.
 
 I'm also currently trying to apply to **PhD programs** to further pursue this path.
