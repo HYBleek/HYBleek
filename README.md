@@ -6,7 +6,7 @@ I'm **Haoyang 'Henry' Cui**, currently a Master's student at **Dartmouth College
 I'm actively the following lab at Dartmouth:
 - [**Lee Lab**](https://lee-lab.engineering.dartmouth.edu/) – Dedicated to analyzing antibody repertoire evolution (RNA/protein) with **high-throughput methods and modelling** to understand protection and engineer personalized vaccines/immunotherapies.
 
-### 🚀 Current Projects
+### Current Projects
 I'm currently working on：
 - **Web-Based Immunology Pipeline**  
   Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology**.
@@ -15,7 +15,10 @@ My long-term goal is to leverage machine learning—especially **dimension reduc
 
 I'm also currently trying to apply to **PhD programs** to further pursue this path.
 
-### 💪 Fun Fact
+### Currently: Applying for a potential RA position in the US or Canada
+If you are interested, please email: haoyang.cui.gr@dartmouth.edu.
+
+### Fun Fact
 I'm a passionate gym-goer! I’ve lost over **70 lbs (about 32 kg)** since finishing my undergrad. I'm even planning to write a book about my workout routines and nutrition strategies for sustainable weight control.
 
 <!--
