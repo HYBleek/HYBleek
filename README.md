@@ -16,7 +16,7 @@ My long-term goal is to leverage machine learning—especially **dimension reduc
 
 I'm also currently trying to apply to **PhD programs** to further pursue this path.
 
-### Currently: Applying for a potential RA position in the US or Canada
+### Currently: Applying for a potential RA position related to computational biology in the US or Canada
 If you are interested, please email: haoyang.cui.gr@dartmouth.edu.
 
 ### Fun Fact
