@@ -13,7 +13,7 @@ I'm currently working on：
 
 ### Long-term Goal
 My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive models**—to build smarter, **personalized digital health systems**.
-
+Big update, my long-term goal might be changed due to the release of the AlphaGenome! So excited, it is hard for me ro sleep now !!!
 I'm also trying to apply to **PhD programs** to further pursue this path in the recent 3-5 years.
 
 ### Currently: Applying for a potential RA position related to computational biology in the US or Canada
