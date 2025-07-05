@@ -18,7 +18,7 @@ Big update, my long-term goal might be changed due to the release of the AlphaGe
 
 
 ### Currently: Applying for a potential RA position related to computational biology in the US or Canada
-If you are interested, please email: haoyang.cui.gr@dartmouth.edu.
+If you are interested, please email: haoyang.cui.hse@dartmouth.edu.
 
 ### Fun Fact
 I'm a passionate gym-goer! I’ve lost over **70 lbs (about 32 kg)** since finishing my undergrad. I'm even planning to write a book about my workout routines and nutrition strategies for sustainable weight control.
