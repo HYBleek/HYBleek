@@ -17,7 +17,7 @@ My long-term goal is to leverage machine learning—especially **dimension reduc
 Big update, my long-term goal might be changed due to the release of the AlphaGenome! So excited, it is hard for me ro sleep now !!!
 
 
-### Currently: Applying for a potential RA position related to computational biology in the US or Canada
+### Currently: Applying for a RA position related to computational biology in the US or Canada
 If you are interested, please email: haoyang.cui.hse@dartmouth.edu.
 
 ### Fun Fact
