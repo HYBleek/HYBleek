@@ -18,7 +18,9 @@ Big update, my long-term goal might be changed due to the release of the AlphaGe
 
 ### Currently: Learning SAS, CUDA and Agent AI
 
-### In Future: Applying for a RA position related to computational biology in the US or Canada
+### In Future: 
+###### For Academic: Applying for a RA position related to computational biology in the US or Canada
+###### For industry: Applying for Full-Stack Systems Engineer in the Bio/Health Domain
 If you are interested, please email: haoyang.cui.hse@dartmouth.edu.
 
 ### Fun Fact
