@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Haoyang (Henry) Cui</h1>
 
 🎓 MS in Health Data Science @ Dartmouth (Geisel School of Medicine)  
-🎓 BSc in Computer Science & Applied Mathematics @ University of Toronto  
+🎓 BSc in Computer Science & Mathematics @ University of Toronto  
 💡 Building systems at the intersection of **biomedical research, full-stack engineering, and AI**
 
 ---
