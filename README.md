@@ -1,43 +1,63 @@
-## 👋 Hi there, welcome to my GitHub Profile!
+<h1 align="center">👋 Hi, I'm Haoyang (Henry) Cui</h1>
 
-I'm **Haoyang 'Henry' Cui**, currently a Master's student at **Dartmouth College**, with a background in **Computer Science and Mathematics** from the **University of Toronto**.
+🎓 MS in Health Data Science @ Dartmouth (Geisel School of Medicine)  
+🎓 BSc in Computer Science & Applied Mathematics @ University of Toronto  
+💡 Building systems at the intersection of **biomedical research, full-stack engineering, and AI**
 
-### 🔬 Research & Work  
-I'm actively the following lab at Dartmouth:
-- [**Lee Lab**](https://lee-lab.engineering.dartmouth.edu/) – Dedicated to analyzing antibody repertoire evolution (RNA/protein) with **high-throughput methods and modelling**.
+---
 
-### Current Projects
-I'm currently working on：
-- **Web-Based Immunology Pipeline**  
-  Building a web server to bridge **wet lab experiments** and **dry lab data analysis** for **bioengineering of immunology**.
+## 🔬 Research & Lab Work
 
-### Long-term Goal
-My long-term goal is to leverage machine learning—especially **dimension reduction on RNA/DNA-seq data** and advanced models like **Diffusion** and **Autoregressive models**—to build smarter, **personalized digital health systems**.
+I'm currently part of the [**Lee Lab**](https://lee-lab.engineering.dartmouth.edu/), where we explore:
+- The **evolution of antibody repertoires** through high-throughput RNA/protein data
+- Scalable modeling and automated analysis pipelines for **immunological data**
 
-Big update, my long-term goal might be changed due to the release of the AlphaGenome! So excited, it is hard for me ro sleep now !!!
+---
 
-### Currently: Learning SAS, CUDA and Agent AI
+## 🚀 Current Projects
 
-### In Future: 
-###### For Academic: Applying for a RA position related to computational biology in the US or Canada
-###### For industry: Applying for Full-Stack Systems Engineer in the Bio/Health Domain
-If you are interested, please email: haoyang.cui.hse@dartmouth.edu.
+### 🧪 Web-Based Immunology Pipeline
+> Building a full-stack platform to connect **wet lab experiments** with **HPC-powered dry lab analysis**, enabling automated submission, biological sequence search (FASTQ/FASTA), and real-time monitoring.
 
-### Fun Fact
-I'm a passionate gym-goer! I’ve lost over **70 lbs (about 32 kg)** since finishing my undergrad. I'm even planning to write a book about my workout routines and nutrition strategies for sustainable weight control.
+---
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYBleek)](https://github.com/anuraghazra/github-readme-stats)
-**HYBleek/HYBleek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Long-Term Vision
 
-Here are some ideas to get you started:
+I aim to build intelligent **digital health systems** powered by:
+- **Dimension reduction** on RNA/DNA-seq & high-dimensional omics data
+- **Autoregressive** and **Diffusion models** for medical prediction and generation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Big update: My goals might evolve thanks to **AlphaGenome** — I'm honestly so excited I couldn't sleep when it dropped!
+
+---
+
+## 🛠️ Currently Learning
+- **SAS** – for health data analytics & clinical applications  
+- **CUDA** – to accelerate model training for medical imaging  
+- **Agent-based AI** – for automating workflows in LLM pipelines  
+
+---
+
+## 🧬 Next Steps
+
+I'm actively looking for:
+
+- 🔬 **Research Assistantships** in computational biology (US or Canada)
+- 🏥 **Full-Stack Systems Engineering roles** in the Bio/Health/MedTech domain
+
+📬 If you’re hiring, collaborating, or just curious, feel free to reach out:  
+**📧 haoyang.cui.hse@dartmouth.edu**
+
+---
+
+## 💪 Fun Fact
+
+Outside the lab, I'm a dedicated gym-goer and health hacker. I’ve lost over **70 lbs (~32 kg)** since undergrad — and I'm planning to write a book on sustainable body transformation combining **data, nutrition, and habit design**.
+
+---
+
+<!-- Optional GitHub Stats -->
+<!-- 
+[![HYBleek's GitHub stats](https://github-readme-stats.vercel.app/api?username=HYBleek&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
