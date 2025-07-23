@@ -20,8 +20,6 @@ I'm currently part of the [**Lee Lab**](https://lee-lab.engineering.dartmouth.ed
 
 
 
----
-
 ## 🛠️ Currently Learning
 - **SAS** – for health data analytics & clinical applications  
 - **CUDA** – to accelerate model training for medical imaging  
