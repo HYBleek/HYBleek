@@ -12,22 +12,13 @@ I'm currently part of the [**Lee Lab**](https://lee-lab.engineering.dartmouth.ed
 - The **evolution of antibody repertoires** through high-throughput RNA/protein data
 - Scalable modeling and automated analysis pipelines for **immunological data**
 
----
 
 ## 🚀 Current Projects
 
 ### 🧪 Web-Based Immunology Pipeline
 > Building a full-stack platform to connect **wet lab experiments** with **HPC-powered dry lab analysis**, enabling automated submission, biological sequence search (FASTQ/FASTA), and real-time monitoring.
 
----
 
-## 🎯 Long-Term Vision
-
-I aim to build intelligent **digital health systems** powered by:
-- **Dimension reduction** on RNA/DNA-seq & high-dimensional omics data
-- **Autoregressive** and **Diffusion models** for medical prediction and generation
-
-> Big update: My goals might evolve thanks to **AlphaGenome** — I'm honestly so excited I couldn't sleep when it dropped!
 
 ---
 
@@ -47,6 +38,14 @@ I'm actively looking for:
 
 📬 If you’re hiring, collaborating, or just curious, feel free to reach out:  
 **📧 haoyang.cui.hse@dartmouth.edu**
+
+## 🎯 Long-Term Vision
+
+I aim to build intelligent **digital health systems** powered by:
+- **Dimension reduction** on RNA/DNA-seq & high-dimensional omics data
+- **Autoregressive** and **Diffusion models** for medical prediction and generation
+
+> Big update: My goals might evolve thanks to **AlphaGenome** — I'm honestly so excited I couldn't sleep when it dropped!
 
 ---
 
