@@ -4,13 +4,12 @@
 🎓 BSc in Computer Science & Mathematics @ University of Toronto  
 💡 Building systems at the intersection of **biomedical research, full-stack engineering, and AI**
 
----
 
 ## 🔬 Research & Lab Work
 
 I'm currently part of the [**Lee Lab**](https://lee-lab.engineering.dartmouth.edu/), where we explore:
 - The **evolution of antibody repertoires** through high-throughput RNA/protein data
-- Scalable modeling and automated analysis pipelines for **immunological data**
+- Scalable modelling and automated analysis pipelines for **immunological data**
 
 
 ## 🚀 Current Projects
@@ -25,7 +24,6 @@ I'm currently part of the [**Lee Lab**](https://lee-lab.engineering.dartmouth.ed
 - **CUDA** – to accelerate model training for medical imaging  
 - **Agent-based AI** – for automating workflows in LLM pipelines  
 
----
 
 ## 🧬 Next Steps
 
