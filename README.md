@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Haoyang (Henry) Cui</h1>
 
-[My Website, to be released](https://haoyang-henry-cui.com/)
+[My Website, developing](https://haoyang-henry-cui.com/)
 
 🎓 MS in Health Data Science @ Dartmouth (Geisel School of Medicine)  
 🎓 BSc in Computer Science & Mathematics @ University of Toronto  
