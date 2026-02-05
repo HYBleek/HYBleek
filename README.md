@@ -35,7 +35,7 @@ I'm actively looking for:
 - 🏥 **Full-Stack Systems Engineering roles** in the Bio/Health/MedTech domain
 
 📬 If you’re hiring, collaborating, or just curious, feel free to reach out:  
-**📧 haoyang.cui.hse@dartmouth.edu**
+**📧 henry.cui@dartmouth.edu**
 
 ## 🎯 Long-Term Vision
 
